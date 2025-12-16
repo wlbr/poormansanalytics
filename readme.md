@@ -1,4 +1,4 @@
-# Part 1: Coding Exercise (45 minutes)
+# Task: In-Memory Analytics (more-or-less)
 
 ## Objective
 Build an in-memory analytics component that efficiently ingests request events and answers top-N queries.
